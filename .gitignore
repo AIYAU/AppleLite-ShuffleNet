@@ -1,0 +1,8 @@
+/.idea
+*.pth
+*.zip
+/resu
+/dataset
+/__pycache__
+/weight
+/eval_results
